@@ -1,12 +1,17 @@
-# Diabetes Decision Boosting model
-The aim of this exercise is to predict whether a patient has diabetes using data from the National Institute of Diabetes and Digestive and Kidney Diseases using a boosting model
+# Diabetes Decision Boosting Model 🚀
 
-**Note:** the full exploratory data analysis can be found here: https://github.com/linama2593/Decis_Tree_Diabetes 
+This repository is dedicated to predicting whether a patient has diabetes using data from the National Institute of Diabetes and Digestive and Kidney Diseases, employing a boosting model.
 
-## Folders' content:
+**Exploratory Data Analysis:** Full exploratory data analysis can be found [here](https://github.com/linama2593/Decis_Tree_Diabetes).
 
-### Notebooks:
+## Notebooks 📓
 
-*   The main notebook, Diabetes_Boosting.ipynb, with all the code, is in the src folder.This notebook compares the performance, measureded by accuracy, of the optimal and non-optimised boosting model 
+The main notebook, [`Diabetes_Boosting.ipynb`](src/Diabetes_Boosting.ipynb), containing all the code, is located in the `src` folder. This notebook extensively compares the performance, measured by accuracy, of both the optimized and non-optimized boosting models.
 
-*   Folder 'models' contains the stored models from the resulting analysis/estimations
+## Folders 📁
+
+### `models/`
+
+The `models` folder houses the stored models resulting from the analysis and estimations.
+
+Feel free to delve into the notebook and explore the models to gain insights into the predictive capabilities of the boosting model in determining diabetes. If you have any questions or suggestions, feel free to open an issue or contribute to the project. Happy predicting! 🩺📊
